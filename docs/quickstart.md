@@ -14,7 +14,7 @@ StateMirror preserves evidence snapshots submitted by your application. It does 
 ## 1. Clone
 
 ```bash
-git clone https://github.com/mlawrence427/statemirror-core.git
+git clone https://github.com/simplestates/statemirror-core.git
 cd statemirror-core
 ```
 
